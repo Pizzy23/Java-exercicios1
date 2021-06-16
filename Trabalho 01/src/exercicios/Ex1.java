@@ -4,13 +4,12 @@ package exercicios;
 import java.util.Scanner;
 
 public class Ex1 {
-	public static int numP, numP2;
 	
+	public static int numP, numP2;
 	public static int num1;
 	public static int num2;
 	public static int base, altura;
-	public static int resultado, resultado3;
-
+	public static int resultado;
 	static double resultado2;
 	public static double pi = 3.14;
 	
